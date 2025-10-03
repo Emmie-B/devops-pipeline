@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmie-B/devops-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmie-B/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/Emmie-B/devops-pipeline#readme",
+  "description": ""
+}
